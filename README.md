@@ -1,4 +1,4 @@
-BookHub SQL Mock Project – Beginner Level
+BookHub SQL Mock Project – Beginner Level 
 
 Welcome to the BookHub SQL Mock Test project! This case study simulates a real-world scenario of managing and analyzing data for an online bookstore named BookHub. The project is designed to test and strengthen your SQL skills through table creation, data insertion, and query writing.
 
