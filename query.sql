@@ -42,7 +42,7 @@ CREATE TABLE Orders (
 
 -- insert queries 
 
--- Insert data into Authors
+-- Insert data into Author
 INSERT INTO Authors (AuthorID, Name, Country, BirthYear) VALUES
 (1, 'J.K. Rowling', 'United Kingdom', 1965),
 (2, 'George R.R. Martin', 'United States', 1948),
