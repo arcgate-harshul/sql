@@ -1,4 +1,4 @@
--- queries to create table 
+-- queries to create table
 
 CREATE TABLE Authors (
     AuthorID INT PRIMARY KEY,
