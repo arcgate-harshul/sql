@@ -1,4 +1,4 @@
-MySQL Bookstore Project
+MySQL Bookstore Project-
 
 This project demonstrates the use of basic and advanced SQL queries on a bookstore database containing Authors, Books, Customers, and Orders.
 
